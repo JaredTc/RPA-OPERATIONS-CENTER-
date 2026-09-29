@@ -1,5 +1,13 @@
 # BACKEND RPA OPERATIONS CENTER
+[![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)](https://www.python.org/) [![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)](https://www.djangoproject.com/)  
 
+Backend desarrollado en Python con Django RestFramework y Mysql, se usan .env para las keys, la base de datos se consume de manera remota en un server
+de red propio
+Actualmente incluye:  
+
+- Autenticacion de usuarios (username)  
+- Administracion de Usuarios
+-  
 # 📂 Estructura del proyecto
 
 ```bash
