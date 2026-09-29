@@ -6,8 +6,9 @@ de red propio.
 
 Actualmente incluye:  
 
-- Autenticacion de usuarios (username)  
-- Administracion de Usuarios
+- Autenticacion de usuarios (username).
+- Administracion de Usuarios.
+- Envio de Correos como el de Bienvenida.
 -  
 # 📂 Estructura del proyecto
 
