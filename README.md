@@ -9,7 +9,7 @@ Actualmente incluye:
 - Autenticacion de usuarios (username).
 - Administracion de Usuarios.
 - Envio de Correos como el de Bienvenida.
-- Documentacin con SwaggerUI
+- Documentación con SwaggerUI
 -  
 # 📂 Estructura del proyecto
 
